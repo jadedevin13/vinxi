@@ -1,5 +1,16 @@
 # @vinxi/plugin-references
 
+## 0.4.3
+
+### Patch Changes
+
+- 2b526da8: add "license" field to library package.json files
+- Updated dependencies [2b526da8]
+- Updated dependencies [1b4381a0]
+- Updated dependencies [f0a1c26c]
+  - @vinxi/plugin-directives@0.4.3
+  - vinxi@0.4.3
+
 ## 0.4.2
 
 ### Patch Changes

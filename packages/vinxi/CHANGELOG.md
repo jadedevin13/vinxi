@@ -1,5 +1,13 @@
 # vinxi
 
+## 0.4.3
+
+### Patch Changes
+
+- 2b526da8: add "license" field to library package.json files
+- 1b4381a0: Add support for Vite --mode
+- f0a1c26c: fix: hash chunks with djb2
+
 ## 0.4.2
 
 ### Patch Changes
